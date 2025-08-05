@@ -1,1 +1,11 @@
+# Ignore compiled C files
 *.exe
+
+# macOS system files
+.DS_Store
+
+# VSCode folder
+.vscode/
+
+# Ignore compiled Java files
+*.class
